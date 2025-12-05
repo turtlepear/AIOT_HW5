@@ -103,3 +103,6 @@ streamlit run app.py
 `hfl/chinese-roberta-wwm-ext`
 
 ------------------------------------------------------------------------
+
+## AI Agent 對話過程
+[AI人類偵測器實作.pdf](https://github.com/user-attachments/files/23956938/AI.pdf)
