@@ -3,7 +3,11 @@
 透過這個 Streamlit 應用程式，你可以快速判斷一段 **英文文本** 是 **AI
 生成** 還是 **人類撰寫**。\
 介面美觀、操作簡單，並提供示範文本與視覺化結果。
+
 demo web : https://aiothw5-fjlznakk7zjiu2nndeskks.streamlit.app/
+
+AI Agent 對話過程
+[AI人類偵測器實作.pdf](https://github.com/user-attachments/files/23956938/AI.pdf)
 
 ------------------------------------------------------------------------
 
@@ -103,6 +107,3 @@ streamlit run app.py
 `hfl/chinese-roberta-wwm-ext`
 
 ------------------------------------------------------------------------
-
-## AI Agent 對話過程
-[AI人類偵測器實作.pdf](https://github.com/user-attachments/files/23956938/AI.pdf)
